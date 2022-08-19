@@ -24,7 +24,7 @@ const Sidebar = () => {
         quality="100"
       /> */}
       <Image
-        src="/../public/images/me.jpeg"
+        src="/images/me.jpeg"
         alt="avatar"
         className="mx-auto border rounded-full "
         height="128px"
